@@ -1,5 +1,8 @@
-const API_KEY = '1e21014122334da9a72bcca02802ac0e'; 
-const BASE_URL = 'https://newsapi.org/v2';
+// const API_KEY = '1e21014122334da9a72bcca02802ac0e'; newsapi key
+// const BASE_URL = 'https://newsapi.org/v2';
+// Gnews api key 
+const API_KEY = '961b50204d4497554a6b0b2b3f659af7'; 
+const BASE_URL = 'https://gnews.io/api/v4';
 
 export const CATEGORIES = [
   { id: 'general', label: 'Top Stories', icon: '🌐' },
