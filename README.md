@@ -39,7 +39,7 @@ A modern, fully responsive **Live News Web App** built with React.js, Vite, and 
 
 | Light Mode | Dark Mode |
 |---|---|
-| ![Light](screenshot-home-light.png) | ![Dark](Screenshot2026-06-08100321.png) |
+| ![Light](screenshot-home-light.png) | ![Dark](screenshot-home-dark.png) |
 
 ---
 
@@ -55,7 +55,7 @@ A modern, fully responsive **Live News Web App** built with React.js, Vite, and 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/newspulse.git
+git clone https://github.com/Aman2888/newspulse.git
 
 # 2. Go into the project folder
 cd newspulse
@@ -67,19 +67,7 @@ npm install
 cp .env.example .env
 ```
 
-### Add your API Key
-
 Create a `.env` file in the root folder:
-
-```env
-VITE_NEWS_API_KEY=your_api_key_here
-```
-
-Then update `src/utils/newsService.js` line 3:
-
-```js
-const API_KEY = import.meta.env.VITE_NEWS_API_KEY;
-```
 
 ### Run the app
 
@@ -119,7 +107,7 @@ newspulse/
 
 ## 🌐 API Information
 
-This project uses the **[NewsAPI](https://newsapi.org)**  a free REST API for news data.
+This project uses a free REST API for news data.
 
 | Plan | Requests/Day | Countries | Hosting |
 |---|---|---|---|
@@ -147,19 +135,7 @@ Output will be in the `dist/` folder.
 
 ---
 
-## 🚢 Deployment
-
-### Deploy on Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com) and import your repo
-3. Add environment variable: `VITE_NEWS_API_KEY = your_key`
-4. Click **Deploy**
-
-### Deploy on Netlify
-
 1. Run `npm run build`
-2. Drag & drop the `dist/` folder on [netlify.com/drop](https://app.netlify.com/drop)
 
 ---
 
@@ -167,15 +143,7 @@ Output will be in the `dist/` folder.
 
 **Amna Irfan**
 - 💼 Fiverr: [aman_ch1](https://www.fiverr.com/aman_ch1)
-- 📸 Instagram: [@your_handle](https://instagram.com)
-- 🐙 GitHub: [@your-username](https://github.com)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
+- 🐙 GitHub: [@Aman2888](https://github.com/Aman2888)
 ---
 
 > ⭐ If you found this project helpful, please give it a star on GitHub!
