@@ -1,6 +1,6 @@
 # 📰 NewsPulse
 
-A modern, fully responsive **Live News Web App** built with React.js, Vite, and Tailwind CSS. Browse real-time headlines from around the world — filter by category, switch countries, search stories, and read full articles with a beautiful dark/light theme.
+A modern, fully responsive **Live News Web App** built with React.js, Vite, and Tailwind CSS. Browse real-time headlines from around the world filter by category, switch countries, search stories, and read full articles with a beautiful dark/light theme.
 
 ![NewsPulse Preview](https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=400&fit=crop)
 
@@ -8,17 +8,17 @@ A modern, fully responsive **Live News Web App** built with React.js, Vite, and 
 
 ## ✨ Features
 
-- 🌍 **Multi-Country News** — Browse news from 10+ countries including Pakistan 🇵🇰, USA 🇺🇸, UK 🇬🇧, India 🇮🇳, UAE 🇦🇪 and more
-- 🗂️ **7 Categories** — Top Stories, Technology, Business, Sports, Entertainment, Health, Science
-- 🔍 **Live Search** — Search any topic or keyword across all news sources
-- 🌙 **Dark / Light Theme** — Smooth toggle with full theme support
-- 📄 **Full Article Modal** — Click any news card to read title, description & full content
-- 📋 **Copy** — Copy full article text to clipboard in one click
-- 🔗 **Share** — Native share (mobile) or copy link to clipboard
-- ⬇️ **Download** — Save any article as a `.txt` file
-- ⚡ **Skeleton Loaders** — Smooth loading experience
-- 📱 **Fully Responsive** — Works perfectly on mobile, tablet, and desktop
-- 🔄 **Load More** — Paginated news loading
+- 🌍 **Multi-Country News**  Browse news from 10+ countries including Pakistan 🇵🇰, USA 🇺🇸, UK 🇬🇧, India 🇮🇳, UAE 🇦🇪 and more
+- 🗂️ **7 Categories**  Top Stories, Technology, Business, Sports, Entertainment, Health, Science
+- 🔍 **Live Search**  Search any topic or keyword across all news sources
+- 🌙 **Dark / Light Theme**  Smooth toggle with full theme support
+- 📄 **Full Article Modal**  Click any news card to read title, description & full content
+- 📋 **Copy**  Copy full article text to clipboard in one click
+- 🔗 **Share**  Native share (mobile) or copy link to clipboard
+- ⬇️ **Download**  Save any article as a `.txt` file
+- ⚡ **Skeleton Loaders**  Smooth loading experience
+- 📱 **Fully Responsive**  Works perfectly on mobile, tablet, and desktop
+- 🔄 **Load More**  Paginated news loading
 
 ---
 
@@ -121,7 +121,7 @@ newspulse/
 
 ## 🌐 API Information
 
-This project uses the **[NewsAPI](https://newsapi.org)** — a free REST API for news data.
+This project uses the **[NewsAPI](https://newsapi.org)**  a free REST API for news data.
 
 | Plan | Requests/Day | Countries | Hosting |
 |---|---|---|---|
