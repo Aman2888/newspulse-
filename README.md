@@ -2,7 +2,7 @@
 
 A modern, fully responsive **Live News Web App** built with React.js, Vite, and Tailwind CSS. Browse real-time headlines from around the world filter by category, switch countries, search stories, and read full articles with a beautiful dark/light theme.
 
-![NewsPulse Preview](https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=400&fit=crop)
+![NewsPulse Preview](preview.png)
 
 ---
 
