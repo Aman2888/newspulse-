@@ -39,7 +39,7 @@ A modern, fully responsive **Live News Web App** built with React.js, Vite, and 
 
 | Light Mode | Dark Mode |
 |---|---|
-| ![Light](Screenshot 2026-06-08 100255.png) | ![Dark](Screenshot2026-06-08100321.png) |
+| ![Light](screenshot-home-light.png) | ![Dark](Screenshot2026-06-08100321.png) |
 
 ---
 
