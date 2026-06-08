@@ -37,11 +37,9 @@ A modern, fully responsive **Live News Web App** built with React.js, Vite, and 
 
 ## 📸 Screenshots
 
-> *(Add your own screenshots here after running the project)*
-
 | Light Mode | Dark Mode |
 |---|---|
-| ![Light](screenshot-light.png) | ![Dark](screenshot-dark.png) |
+| ![Light](Screenshot 2026-06-08 100255.png) | ![Dark](Screenshot2026-06-08100321.png) |
 
 ---
 
